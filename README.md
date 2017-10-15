@@ -1,5 +1,8 @@
 my command is this one : g++ -<options> objetc1.o objetc2.o objetc3.o objetc4.o -L<pathOfTheLibrary> -l<nameOfTheLibrary> -lpthread -o myexe
 g++ -L/home/user/myDir -lxyz myprog.cpp -o myprog
+  
+<use below command for looking for liking problems>  
+   ld -lzlib --verbose
 
 
 # ViaBTC Exchange Server
