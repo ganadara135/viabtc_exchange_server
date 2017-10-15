@@ -1,3 +1,7 @@
+my command is this one : g++ -<options> objetc1.o objetc2.o objetc3.o objetc4.o -L<pathOfTheLibrary> -l<nameOfTheLibrary> -lpthread -o myexe
+g++ -L/home/user/myDir -lxyz myprog.cpp -o myprog
+
+
 # ViaBTC Exchange Server
 
 ViaBTC Exchange Server is a trading backend with high-speed performance, designed for cryptocurrency exchanges. It can support up to 10000 trades every second and real-time user/market data notification though websocket.
