@@ -3,6 +3,9 @@ g++ -L/home/user/myDir -lxyz myprog.cpp -o myprog
   
 <use below command for looking for liking problems>  
    ld -lzlib --verbose
+  
+marketpize
+root@matchserver:/usr/local/bin# ./redis-server /etc/redis/stn26383.conf --sentinel
 
 
 # ViaBTC Exchange Server
